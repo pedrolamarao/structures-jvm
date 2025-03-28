@@ -1,4 +1,4 @@
-= jvm-structures
+= structures-jvm
 :author: Pedro Lamarão <pedro.lamarao@prodist.com.br>
 :icons: font
 
